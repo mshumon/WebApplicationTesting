@@ -1,7 +1,0 @@
-<suite name="ScenariosTesting suite">
-  <test name="POM test">
-    <classes>
-      <class name="com.POM.NewToursHomePageTesting"/>
-    </classes>
-  </test> 
-</suite> 

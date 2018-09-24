@@ -9,7 +9,7 @@ public class NavigatingToFaceBook
 	{
 		
 		FirefoxDriver driver = new FirefoxDriver();
-		driver.get("http://gmail.com");
+		//driver.get("http://gmail.com");
 		
 		driver.navigate().to("http://facebook.com");
 		
